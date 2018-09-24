@@ -1,0 +1,10 @@
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\bin\Debug\CalculatorFormsApp.exe.config
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\bin\Debug\CalculatorFormsApp.exe
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\bin\Debug\CalculatorFormsApp.pdb
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.Properties.Resources.resources
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.exe
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.pdb
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.Form1.resources
+E:\Tugas Kuliah\Semester 3\Pemrograman Lanjut\Praktikum 1\CalculatorApp\CalculatorFormsApp\obj\Debug\CalculatorFormsApp.Form2.resources
